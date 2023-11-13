@@ -16,6 +16,4 @@ Login to your webuzo control panel and go to __Add Applicaton__ set __Applicatio
 
 ## Change the default port from manayge.py
 ```runserver.default_port = "30011"```
-
-*Replace __30011__ with your application port*
-
+*replace 30011 with your application port*
