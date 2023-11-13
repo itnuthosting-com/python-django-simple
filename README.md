@@ -1,1 +1,1 @@
-# python-django-simple
+# python (django) simple page for webuzo 
