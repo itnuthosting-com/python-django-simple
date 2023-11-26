@@ -35,3 +35,7 @@ Connect your control panel with SSH From any SSH client. If you using windows, y
 ```/usr/local/apps/python3/bin/python3 manage.py makemigrations```
 
 ```/usr/local/apps/python3/bin/python3 manage.py migrate```
+
+
+## Video Tutorial
+https://www.youtube.com/watch?v=RFxPP6RXepg
